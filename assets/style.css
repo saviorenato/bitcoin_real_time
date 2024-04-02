@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #232323;
+  color: #cdcdcd;
+  font-family: "Avenir Next", "Avenir", sans-serif;
+}
+
+.section-primary {
+  display: inline-block;
+  padding-top: 2%;
+}
+
+.section-secondary {
+  display: inline-block;
+  padding-top: 0.3%;
+  height: 550px;
+  width: 1700px;
+}
+
+#bitcoin {
+  padding-left: 5%;
+}
+
+#etherium {
+  padding-left: 1%;
+}
+
+#solana {
+  padding-left: 1%;
+}
+
+#list-bitcoins {
+  padding-left: 5%;
+}
+
+.tradingview-widget-copyright {
+  display: none;
+}
